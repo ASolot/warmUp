@@ -1,2 +1,6 @@
 Just to check. 
 Alex Petre, are you seeing me ? 
+
+
+Clasa baza - get parsed number
+Clasa numerelor de baza (sute)
