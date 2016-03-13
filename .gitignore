@@ -1,1 +1,7 @@
 /NumberReader/build/
+/NumberReader/nbproject/private/
+/NumberReader/nbbuild/
+/NumberReader/dist/
+/NumberReader/nbdist/
+/NumberReader/nbactions.xml
+/NumberReader/.nb-gradle/
